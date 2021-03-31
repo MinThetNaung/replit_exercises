@@ -33,3 +33,17 @@ print("Nice to meet you, " + last_name + " " + first_name + " !")
 '''
 #Q6
 #Continue tomorrow
+
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+
+
+
+
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
